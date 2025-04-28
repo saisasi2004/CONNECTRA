@@ -7,5 +7,5 @@ cd client && npm run dev
 ```
 - go to the server folder and start server
 ```bash
-cd ../server && npm start
+cd /server && npm start
 ```
