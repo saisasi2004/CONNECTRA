@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title></title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="videostyle.css" rel="stylesheet">
+</head>
+
+<body>
+  <!-- spinner  -->
+  <div class="modal">
+    <span id="spinner">Waiting For Someone...</span>
+  </div>
+
+  <!-- video holder  -->
+  <div class="video-holder">
+    <button class="nextsession">Next Session</button>
+    <video autoplay id="my-video"></video>
+    <video autoplay id="video"></video>
+    <button id="audio-btn">Audio Off</button>
+    <button id="video-btn">Video Off</button>
+  </div>
+
+  <!-- chat holder -->
+  <div class="chat-holder">
+    <div class="wrapper">
+    </div>
+    <div class="input">
+      <input type="text" placeholder='Type your message here..'>
+      <button id="send">Send</button>
+    </div>
+  </div>
+
+</body>
+<script src="./index.js" type="module"></script>
+
+</html>

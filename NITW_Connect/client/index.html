@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="handshake.png" type="image/png">
+  <title>CONNECTRA</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <p id="onlineUsers">Current Online Users: 1</p>
+  <div class="wrapper">
+    <img class="gif" src="Shakehand.gif" alt="logo">
+    <h1>CONNECTRA</h1>
+    <h2>Where Conversations Begin ✨</h2>
+    <button onclick="redirect()">Start</button>
+  </div>
+  <div class="footer">
+    <h3><b>&copy; 2025; Design and Developed by Sai Sasivardhan Gampa</b></h3>
+  </div>
+</body>
+<script src="/socket.io/socket.io.js"></script>
+<script>
+  const socket = io();
+  socket.on('online', (count) => {
+    document.getElementById('onlineUsers').textContent = `Online Users: ${count}`;
+  });
+
+  function redirect() {
+    location.href = '/video.html'
+  }
+</script>
+</html>
