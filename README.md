@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/Shakehand.gif" width="150" alt="Two hands shaking">
+<img src="Shakehand.gif" width="150" alt="Two hands shaking">
 
 # CONNECTRA
 
