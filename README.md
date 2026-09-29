@@ -1,208 +1,199 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Status">
-  <img src="https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge&logo=googlechrome" alt="Platform">
-  <img src="https://img.shields.io/badge/Made%20With-❤️-red?style=for-the-badge" alt="Made with Love">
+<div align="center">
+
+<img src="public/Shakehand.gif" width="150" alt="Two hands shaking">
+
+# CONNECTRA
+
+### Talk to someone new. Keep the ones who matter.
+
+<img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=24&duration=2800&pause=900&color=FF6A3D&center=true&vCenter=true&width=640&lines=One+tap.+One+stranger.+One+great+conversation.;Voice+first.+Video+only+when+you+both+agree.;Chess%2C+Ludo+and+more%2C+right+inside+the+call.;Strangers+today.+Friends+tomorrow." alt="One tap. One stranger. One great conversation.">
+
+<p>
+  <img src="https://img.shields.io/badge/100%25-Free-FF6A3D?style=for-the-badge" alt="100% free">
+  <img src="https://img.shields.io/badge/Calls-Never%20recorded-3DDC97?style=for-the-badge" alt="Calls never recorded">
+  <img src="https://img.shields.io/badge/Works%20on-Phone%20%26%20Desktop-7AA2FF?style=for-the-badge" alt="Works on phone and desktop">
+  <img src="https://img.shields.io/badge/Adults-18%2B-FFC857?style=for-the-badge" alt="Adults 18+">
 </p>
 
-<h1 align="center">
-  🤝 CONNECTRA
-</h1>
+<a href="https://connectra-one.vercel.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5%20%20Start%20a%20conversation%20%20%E2%86%92-FF6A3D?style=for-the-badge" height="44" alt="Start a conversation">
+</a>
 
-<h3 align="center">
-  <em>Where Strangers Become Friends — One Click at a Time</em>
-</h3>
+</div>
 
-<p align="center">
-  <a href="https://connectra-one.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20Try%20It%20Now-CONNECTRA-6C63FF?style=for-the-badge&logoColor=white" alt="Try Now">
-  </a>
-</p>
+<br>
 
----
+> **When did a stranger last make your day?**
+>
+> Maybe it was a laugh with someone on a train, or a late-night talk that changed how you saw something. CONNECTRA brings that feeling online: warm, spontaneous conversations with real people, without the pressure. Stay anonymous for as long as you like, and when you really click with someone, keep them.
 
-## 🤔 When Was The Last Time You Had A Genuinely Surprising Conversation?
+<br>
 
-In a world of curated feeds and echo chambers, **real human connection is becoming rare**. We scroll through hundreds of posts but rarely *talk* to anyone new. We have 1000+ connections but feel disconnected.
-
-**CONNECTRA changes that.**
-
-One click. One stranger. One conversation that could change your day — or maybe your life.
-
----
-
-## ✨ What is CONNECTRA?
-
-CONNECTRA is a **next-generation random video chat platform** that helps you break free from your social bubble. Meet real people from across the globe, have genuine conversations, and experience the thrill of the unexpected.
-
-> *"The best conversations are the ones you never expected to have."*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400" alt="Connection Animation">
-</p>
-
----
-
-## 🎯 Why CONNECTRA?
-
-| 💬 **Instant Text Chat** | 🎥 **Crystal-Clear Video** | 🤝 **Real Connections** |
-|:------------------------:|:--------------------------:|:-----------------------:|
-| Break the ice with messages | HD video with low latency | Meet genuine people |
-
-| ⚡ **One-Click Access** | 🌍 **Global Community** | 🔒 **Safe & Secure** |
-|:-----------------------:|:-----------------------:|:--------------------:|
-| Sign in with Google | 190+ countries | End-to-end encryption |
-
----
-
-## 🚀 Features That Make Us Different
-
-### 💎 **Premium Experience, Zero Cost**
-
-```
-✅ No downloads required — Works in your browser
-✅ No credit card needed — 100% free to use  
-✅ No complicated setup — Just sign in and go
-```
-
-### 🎬 **Seamless Video & Chat**
-
-- **HD Video Calls** — Crystal clear picture quality
-- **Real-time Messaging** — Chat while you talk
-- **Smart Matching** — Connect with someone new instantly
-- **Camera & Mic Controls** — Toggle on/off with one click
-- **Skip & Next** — Not vibing? Move on instantly
-
-### 🌟 **User-Centric Design**
-
-- 🎨 **Modern UI** — Beautiful glassmorphism design
-- 🌙 **Smooth Animations** — Delightful micro-interactions
-- 📱 **Responsive** — Works on desktop and mobile
-- ⚡ **Lightning Fast** — Powered by WebRTC technology
-- 👥 **Live Counter** — See who's online right now
-
----
-
-## 🎪 Perfect For...
+## ✨ Why people love CONNECTRA
 
 <table>
   <tr>
-    <td align="center">😴<br><strong>Bored Afternoons</strong><br><em>Turn dull moments into adventures</em></td>
-    <td align="center">🌏<br><strong>Cultural Exchange</strong><br><em>Meet people from 190+ countries</em></td>
-    <td align="center">📚<br><strong>Language Practice</strong><br><em>Practice with native speakers</em></td>
-  </tr>
-  <tr>
-    <td align="center">💡<br><strong>Fresh Perspectives</strong><br><em>Hear different viewpoints</em></td>
-    <td align="center">😊<br><strong>Making Friends</strong><br><em>Find your next best friend</em></td>
-    <td align="center">🎭<br><strong>Social Practice</strong><br><em>Build confidence in conversations</em></td>
+    <td width="33%" valign="top">
+      <h3>🕶️ Anonymous by default</h3>
+      You're just <b>"Stranger"</b> until <i>you</i> decide otherwise. No public profile staring back at you, no follower counts, no pressure.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤝 You both decide</h3>
+      Video turns on only when <b>both</b> of you tap the camera. Profiles are shared only when <b>both</b> of you say yes. Nothing is forced on anyone.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔥 Made for real talk</h3>
+      Icebreakers when it goes quiet, games when you want to play, and a Friendship Clock that grows every time you talk again.
+    </td>
   </tr>
 </table>
 
----
+<br>
 
-## 🛠️ Built With Modern Tech
+## 🚀 Three taps to your next conversation
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io">
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-</p>
+| | |
+|:---:|---|
+| **1️⃣ Sign in** | One tap with Google. Pick a username, add a photo and your interests. |
+| **2️⃣ Choose your vibe** | 💬 **Text Chat** for quiet days, or 🎥 **Video Call** for face-to-face (voice first, video when you're both ready). |
+| **3️⃣ Say hello** | We match you with someone right away. Not feeling it? Tap **Next**. Loving it? Tap **Share Connect**. |
 
----
+<br>
 
-## 📸 Sneak Peek
+## 🎁 Everything inside
 
-### 🏠 Landing Page
-> A beautiful, welcoming entrance to your next adventure
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 Text Chat &nbsp;·&nbsp; 🎥 Video Call</h3>
+      Two separate modes, so you always meet someone who wants the same thing. Calls start <b>voice-only</b>, and your camera switches on only when you both agree. Started in text? Tap <b>Call</b> and move to a call together, only if they say yes too.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Share Connect</h3>
+      Found your person? Ask to Share Connect. If you <b>both</b> agree, you see each other's profile and the details <i>each of you</i> chose to share: name, birthday, socials, photos. Everyone else stays a stranger.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🎮 Six games, right inside the call</h3>
+      ♟️ Chess &nbsp;·&nbsp; 🎲 Ludo &nbsp;·&nbsp; 🐍 Snakes &amp; Ladders &nbsp;·&nbsp; 🎨 Draw &amp; Guess &nbsp;·&nbsp; 🍾 Truth or Dare &nbsp;·&nbsp; ❌⭕ Tic-Tac-Toe<br><br>
+      Send an invite, keep chatting while you play, rack up a 🔥 win streak, and call for a rematch.
+    </td>
+    <td valign="top">
+      <h3>⏳ My Connects &amp; the Friendship Clock</h3>
+      All your connects in one place. Invite them to chat or call again, and watch your Friendship Clock climb from <b>Friends</b> (5 hours) to <b>Best Friends</b> (200 hours). Game rivals get a lifetime head-to-head score.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🪄 Never an awkward silence</h3>
+      When a call goes quiet, an <b>icebreaker</b> pops up with a fun question from our own collection of 200. Tap <i>Another</i> for a new one.
+    </td>
+    <td valign="top">
+      <h3>❤️ Match by interests</h3>
+      Love music? Chess? Anime? Switch on interest matching and we'll look for someone who shares at least one of your interests first. You both see <i>"You both like: …"</i> when it works.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🔤 Live subtitles</h3>
+      Read what the other person says as they speak, translated into your language when your browser can. It all happens on the device, nothing is sent to a speech service.
+    </td>
+    <td valign="top">
+      <h3>🌙 Looks great, day or night</h3>
+      A warm "Campfire" design in <b>Dark</b>, <b>Light</b> or <b>Auto</b>, built for phones first, with big tap targets and readable text everywhere.
+    </td>
+  </tr>
+</table>
 
-### 📹 Video Chat Interface  
-> Where the magic happens — chat, call, and connect
+<br>
 
-### 👤 User Dashboard
-> See who's online and start connecting instantly
+## 🛡️ Your safety comes first
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      ✅ &nbsp;<b>Calls are never recorded</b> and <b>chats are never stored</b> by us<br><br>
+      ✅ &nbsp;<b>Anonymous by default</b>, and you share only what you switch on<br><br>
+      ✅ &nbsp;<b>Video only by mutual consent</b>, never forced
+    </td>
+    <td width="50%" valign="top">
+      ✅ &nbsp;<b>One tap</b> to skip, block or report<br><br>
+      ✅ &nbsp;<b>Offensive words blocked</b> automatically, and repeatedly reported accounts are suspended<br><br>
+      ✅ &nbsp;<b>Adults only</b>: CONNECTRA is strictly 18+
+    </td>
+  </tr>
+</table>
 
-## 🏃‍♂️ Getting Started
+<br>
 
-### It's Ridiculously Simple:
+## 💛 Perfect for…
 
-```
-1️⃣ Visit → https://connectra-one.vercel.app/
-2️⃣ Sign in with Google
-3️⃣ Click "Start Connecting"
-4️⃣ Say hello to someone new! 👋
-```
+<div align="center">
 
-**That's it. No downloads. No installations. No nonsense.**
+| 🌍 **Curious minds** | 🌙 **Night owls** | 🎓 **Students** | 🗣️ **Language learners** | 🎲 **Game lovers** | 🫶 **Anyone feeling a little lonely** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Hear stories from people unlike you | Someone's always up for a chat | Take a break, make a friend | Practice with real people, subtitles included | Challenge a stranger to chess | A kind voice is one tap away |
 
----
+</div>
 
-## 🔐 Your Safety Matters
+<br>
 
-We take your safety seriously:
+## ❓ Questions you might have
 
-- ✅ **Google Authentication** — Verified users only
-- ✅ **Community Guidelines** — Zero tolerance for abuse
-- ✅ **Skip Button** — Leave uncomfortable situations instantly
-- ✅ **Privacy First** — Your data stays your data
-- ✅ **18+ Platform** — Adult-only community
+<details>
+<summary><b>Is it really free?</b></summary>
+<br>Yes. No subscriptions, no paid features, no ads.
+</details>
 
----
+<details>
+<summary><b>Will people see who I am?</b></summary>
+<br>No. You're anonymous until you choose to Share Connect, and even then the other person sees only the details you switched on for sharing.
+</details>
 
-## 🤝 The CONNECTRA Promise
+<details>
+<summary><b>Do I have to turn my camera on?</b></summary>
+<br>Never. Video calls start voice-only, and your camera turns on only if you <i>both</i> tap the camera button. Or just use Text Chat.
+</details>
 
-> *Every person you meet knows something you don't.*
+<details>
+<summary><b>Are my calls or chats saved?</b></summary>
+<br>Calls are never recorded and chat messages are never stored by us. Remember, though, that the other person could still record their own screen, so only share what you're comfortable with.
+</details>
 
-We're not just another video chat app. We're a **movement** to bring back genuine human connection in a digital world. Every conversation on CONNECTRA is a chance to:
+<details>
+<summary><b>What if someone makes me uncomfortable?</b></summary>
+<br>Tap <b>Next</b> to leave instantly, then block or report them with the shield button. Blocked people can never be matched with you again.
+</details>
 
-- 💭 Learn something new
-- 🌈 See the world differently  
-- 😄 Share a laugh with a stranger
-- 🤗 Feel less alone in this big world
+<details>
+<summary><b>Does it work on my phone?</b></summary>
+<br>Yes. CONNECTRA runs in any modern browser on phones, tablets and computers. There's nothing to install.
+</details>
 
----
+<br>
 
-## 📬 Stay Connected
+<div align="center">
 
-Have questions? Suggestions? Just want to say hi?
+## 🔥 Your next great conversation is waiting
 
-<p align="center">
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
+*Every person you meet knows something you don't.*
 
----
+<a href="https://connectra.fun">
+  <img src="https://img.shields.io/badge/%F0%9F%91%89%20%20Try%20CONNECTRA%20now%20%20%F0%9F%91%88-FF6A3D?style=for-the-badge" height="48" alt="Try CONNECTRA now">
+</a>
 
-## 💫 One Last Thing...
+<br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Your+next+interesting+conversation...;is+just+ONE+CLICK+away!" alt="Typing SVG">
-</p>
+<a href="https://github.com/saisasi2004/CONNECTRA"><img src="https://img.shields.io/badge/Star%20us%20on-GitHub-20212A?style=for-the-badge&logo=github" alt="Star us on GitHub"></a>
+<a href="mailto:ping.connectra@gmail.com"><img src="https://img.shields.io/badge/Say-Hello-FFC857?style=for-the-badge&logo=gmail&logoColor=1A0E08" alt="Email us"></a>
 
-<p align="center">
-  <a href="https://connectra-one.vercel.app/">
-    <img src="https://img.shields.io/badge/👉%20TRY%20CONNECTRA%20NOW%20👈-6C63FF?style=for-the-badge&logoColor=white" alt="Try Now Large">
-  </a>
-</p>
+<br><br>
 
----
+<sub>
+  <a href="https://connectra.fun/terms.html">Terms of Service</a> &nbsp;·&nbsp; <a href="https://connectra.fun/terms.html">Privacy Policy</a> &nbsp;·&nbsp; For adults 18+ only
+  <br>
+  © 2026 CONNECTRA · Designed &amp; developed with ❤️ by <b>GSSV</b>
+</sub>
 
-<p align="center">
-  Made with ❤️ by <strong>GSSV</strong>
-</p>
-
-<p align="center">
-  <sub>© 2026 CONNECTRA. All rights reserved.</sub>
-</p>
-
-<p align="center">
-  <sub>Remember: Every stranger is just a friend you haven't met yet. 🌟</sub>
-</p>
+</div>
