@@ -6,7 +6,7 @@
 
 ### Talk to someone new. Keep the ones who matter.
 
-<img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=24&duration=2800&pause=900&color=FF6A3D&center=true&vCenter=true&width=640&lines=One+tap.+One+stranger.+One+great+conversation.;Voice+first.+Video+only+when+you+both+agree.;Chess%2C+Ludo+and+more%2C+right+inside+the+call.;Strangers+today.+Friends+tomorrow." alt="One tap. One stranger. One great conversation.">
+<img src="https://readme-typing-svg.demolab.com?font=Recursive&weight=800&size=24&duration=2800&pause=900&color=FF6A3D&center=true&vCenter=true&width=640&lines=One+tap.+One+stranger.+One+great+conversation.;Voice+first.+Video+only+when+you+both+agree.;Chess%2C+Ludo+and+more%2C+right+inside+the+call.;Group+calls+for+up+to+4+people.;Strangers+today.+Friends+tomorrow." alt="One tap. One stranger. One great conversation.">
 
 <p>
   <img src="https://img.shields.io/badge/100%25-Free-FF6A3D?style=for-the-badge" alt="100% free">
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Adults-18%2B-FFC857?style=for-the-badge" alt="Adults 18+">
 </p>
 
-<a href="https://connectra-one.vercel.app/">
+<a href="https://connectra.fun/">
   <img src="https://img.shields.io/badge/%F0%9F%94%A5%20%20Start%20a%20conversation%20%20%E2%86%92-FF6A3D?style=for-the-badge" height="44" alt="Start a conversation">
 </a>
 
@@ -39,7 +39,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>🤝 You both decide</h3>
-      Video turns on only when <b>both</b> of you tap the camera. Profiles are shared only when <b>both</b> of you say yes. Nothing is forced on anyone.
+      In one-to-one calls, video turns on only when <b>both</b> of you tap the camera. Profiles are shared only when <b>both</b> of you say yes. Nothing is forced on anyone.
     </td>
     <td width="33%" valign="top">
       <h3>🔥 Made for real talk</h3>
@@ -55,8 +55,8 @@
 | | |
 |:---:|---|
 | **1️⃣ Sign in** | One tap with Google. Pick a username, add a photo and your interests. |
-| **2️⃣ Choose your vibe** | 💬 **Text Chat** for quiet days, or 🎥 **Video Call** for face-to-face (voice first, video when you're both ready). |
-| **3️⃣ Say hello** | We match you with someone right away. Not feeling it? Tap **Next**. Loving it? Tap **Share Connect**. |
+| **2️⃣ Choose your vibe** | 💬 **Text Chat** for quiet days, 🎥 **Video Call** for face-to-face (voice first, video when you're both ready), or 👥 **Group Call** to talk about a topic with up to 4 people. |
+| **3️⃣ Say hello** | We match you with someone right away, or you pick a group call to join. Not feeling it? Tap **Next**. Loving it? Tap **Share Connect**. |
 
 <br>
 
@@ -69,39 +69,45 @@
       Two separate modes, so you always meet someone who wants the same thing. Calls start <b>voice-only</b>, and your camera switches on only when you both agree. Started in text? Tap <b>Call</b> and move to a call together, only if they say yes too.
     </td>
     <td width="50%" valign="top">
-      <h3>🤝 Share Connect</h3>
-      Found your person? Ask to Share Connect. If you <b>both</b> agree, you see each other's profile and the details <i>each of you</i> chose to share: name, birthday, socials, photos. Everyone else stays a stranger.
+      <h3>👥 Group Calls (new)</h3>
+      Up to <b>4 people</b> around one topic. Join a public call that's live, or start your own: <b>public</b> for anyone online, or <b>private</b> with a link for your friends. Everyone stays anonymous as <b>Alpha</b>, <b>Beta</b>, <b>Gamma</b> or <b>Delta</b>, with screen sharing, reactions, raised hands, group chat and games for up to 4.
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <h3>🤝 Share Connect</h3>
+      Found your person? Ask to Share Connect, in a one-to-one chat or inside a group call. If you <b>both</b> agree, you see each other's profile and the details <i>each of you</i> chose to share: name, birthday, socials, photos. Everyone else stays a stranger.
+    </td>
+    <td valign="top">
       <h3>🎮 Six games, right inside the call</h3>
       ♟️ Chess &nbsp;·&nbsp; 🎲 Ludo &nbsp;·&nbsp; 🐍 Snakes &amp; Ladders &nbsp;·&nbsp; 🎨 Draw &amp; Guess &nbsp;·&nbsp; 🍾 Truth or Dare &nbsp;·&nbsp; ❌⭕ Tic-Tac-Toe<br><br>
-      Send an invite, keep chatting while you play, rack up a 🔥 win streak, and call for a rematch.
+      Send an invite, keep chatting while you play, rack up a 🔥 win streak, and call for a rematch. In group calls, Ludo, Snakes &amp; Ladders, Draw &amp; Guess and Truth or Dare take up to 4 players.
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3>⏳ My Connects &amp; the Friendship Clock</h3>
       All your connects in one place. Invite them to chat or call again, and watch your Friendship Clock climb from <b>Friends</b> (5 hours) to <b>Best Friends</b> (200 hours). Game rivals get a lifetime head-to-head score.
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3>🪄 Never an awkward silence</h3>
       When a call goes quiet, an <b>icebreaker</b> pops up with a fun question from our own collection of 200. Tap <i>Another</i> for a new one.
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3>❤️ Match by interests</h3>
       Love music? Chess? Anime? Switch on interest matching and we'll look for someone who shares at least one of your interests first. You both see <i>"You both like: …"</i> when it works.
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3>🔤 Live subtitles</h3>
       Read what the other person says as they speak, translated into your language when your browser can. It all happens on the device, nothing is sent to a speech service.
     </td>
-    <td valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🌙 Looks great, day or night</h3>
-      A warm "Campfire" design in <b>Dark</b>, <b>Light</b> or <b>Auto</b>, built for phones first, with big tap targets and readable text everywhere.
+      A warm late-night look, smoky plum by night and soft dawn in light mode, in <b>Dark</b>, <b>Light</b> or <b>Auto</b>. Built for phones first, with big tap targets and readable text everywhere.
     </td>
   </tr>
 </table>
@@ -115,10 +121,11 @@
     <td width="50%" valign="top">
       ✅ &nbsp;<b>Calls are never recorded</b> and <b>chats are never stored</b> by us<br><br>
       ✅ &nbsp;<b>Anonymous by default</b>, and you share only what you switch on<br><br>
-      ✅ &nbsp;<b>Video only by mutual consent</b>, never forced
+      ✅ &nbsp;<b>Video only by mutual consent</b> in one-to-one calls, and in group calls only you decide when your camera is on
     </td>
     <td width="50%" valign="top">
       ✅ &nbsp;<b>One tap</b> to skip, block or report<br><br>
+      ✅ &nbsp;<b>Group calls stay in control</b>: hosts can remove people, and public calls can vote someone out<br><br>
       ✅ &nbsp;<b>Offensive words blocked</b> automatically, and repeatedly reported accounts are suspended<br><br>
       ✅ &nbsp;<b>Adults only</b>: CONNECTRA is strictly 18+
     </td>
@@ -148,12 +155,12 @@
 
 <details>
 <summary><b>Will people see who I am?</b></summary>
-<br>No. You're anonymous until you choose to Share Connect, and even then the other person sees only the details you switched on for sharing.
+<br>No. You're anonymous until you choose to Share Connect, and even then the other person sees only the details you switched on for sharing. In group calls you appear as Alpha, Beta, Gamma or Delta, never by your username.
 </details>
 
 <details>
 <summary><b>Do I have to turn my camera on?</b></summary>
-<br>Never. Video calls start voice-only, and your camera turns on only if you <i>both</i> tap the camera button. Or just use Text Chat.
+<br>Never. Video calls start voice-only, and your camera turns on only if you <i>both</i> tap the camera button. In group calls you choose whether your camera is on, before you join and during the call. Or just use Text Chat.
 </details>
 
 <details>
@@ -162,8 +169,13 @@
 </details>
 
 <details>
+<summary><b>How do group calls work?</b></summary>
+<br>Open <b>Group Call</b> in the lobby. Join a public call about a topic you like, or start your own for up to 4 people. Public calls are listed for everyone online; private calls are never listed, and only people with your link can join. Whoever starts the call is the host and can lock it, remove someone or end it for everyone.
+</details>
+
+<details>
 <summary><b>What if someone makes me uncomfortable?</b></summary>
-<br>Tap <b>Next</b> to leave instantly, then block or report them with the shield button. Blocked people can never be matched with you again.
+<br>Tap <b>Next</b> to leave instantly, then block or report them with the shield button. Blocked people can never be matched with you again. In a group call, use the <b>···</b> menu on their tile to block or report them, and they can't join a call you're in again.
 </details>
 
 <details>
@@ -191,7 +203,7 @@
 <br><br>
 
 <sub>
-  <a href="https://connectra.fun/terms.html">Terms of Service</a> &nbsp;·&nbsp; <a href="https://connectra.fun/terms.html">Privacy Policy</a> &nbsp;·&nbsp; For adults 18+ only
+  <a href="https://connectra.fun/terms">Terms of Service</a> &nbsp;·&nbsp; <a href="https://connectra.fun/privacy">Privacy Policy</a> &nbsp;·&nbsp; For adults 18+ only
   <br>
   © 2026 CONNECTRA · Designed &amp; developed with ❤️ by <b>GSSV</b>
 </sub>
