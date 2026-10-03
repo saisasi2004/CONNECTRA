@@ -6,7 +6,7 @@
 
 ### Talk to someone new. Keep the ones who matter.
 
-<img src="https://readme-typing-svg.demolab.com?font=Recursive&weight=800&size=24&duration=2800&pause=900&color=FF6A3D&center=true&vCenter=true&width=640&lines=One+tap.+One+stranger.+One+great+conversation.;Voice+first.+Video+only+when+you+both+agree.;Chess%2C+Ludo+and+more%2C+right+inside+the+call.;Group+calls+for+up+to+4+people.;Strangers+today.+Friends+tomorrow." alt="One tap. One stranger. One great conversation.">
+<img src="https://readme-typing-svg.demolab.com?font=Recursive&weight=800&size=24&duration=2800&pause=900&color=FF6A3D&center=true&vCenter=true&width=640&lines=One+tap.+One+stranger.+One+great+conversation.;Voice+first.+Your+camera%2C+your+call.;Chess%2C+Ludo+and+more%2C+right+inside+the+call.;Group+calls+for+up+to+4+people.;Strangers+today.+Friends+tomorrow." alt="One tap. One stranger. One great conversation.">
 
 <p>
   <img src="https://img.shields.io/badge/100%25-Free-FF6A3D?style=for-the-badge" alt="100% free">
@@ -39,7 +39,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>🤝 You both decide</h3>
-      In one-to-one calls, video turns on only when <b>both</b> of you tap the camera. Profiles are shared only when <b>both</b> of you say yes. Nothing is forced on anyone.
+      Calls start voice-only and <b>you</b> decide when your camera goes on. Profiles are shared only when <b>both</b> of you say yes. Nothing is forced on anyone.
     </td>
     <td width="33%" valign="top">
       <h3>🔥 Made for real talk</h3>
@@ -55,7 +55,7 @@
 | | |
 |:---:|---|
 | **1️⃣ Sign in** | One tap with Google. Pick a username, add a photo and your interests. |
-| **2️⃣ Choose your vibe** | 💬 **Text Chat** for quiet days, 🎥 **Video Call** for face-to-face (voice first, video when you're both ready), or 👥 **Group Call** to talk about a topic with up to 4 people. |
+| **2️⃣ Choose your vibe** | 💬 **Text Chat** for quiet days, 🎥 **Video Call** for face-to-face (voice first, camera on whenever you like), or 👥 **Group Call** to talk about a topic with up to 4 people. |
 | **3️⃣ Say hello** | We match you with someone right away, or you pick a group call to join. Not feeling it? Tap **Next**. Loving it? Tap **Share Connect**. |
 
 <br>
@@ -66,7 +66,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>💬 Text Chat &nbsp;·&nbsp; 🎥 Video Call</h3>
-      Two separate modes, so you always meet someone who wants the same thing. Calls start <b>voice-only</b>, and your camera switches on only when you both agree. Started in text? Tap <b>Call</b> and move to a call together, only if they say yes too.
+      Two separate modes, so you always meet someone who wants the same thing. Calls start <b>voice-only</b>, and you switch your camera on whenever you're ready. Started in text? Tap <b>Call</b> and move to a call together, only if they say yes too.
     </td>
     <td width="50%" valign="top">
       <h3>👥 Group Calls (new)</h3>
@@ -121,7 +121,7 @@
     <td width="50%" valign="top">
       ✅ &nbsp;<b>Calls are never recorded</b> and <b>chats are never stored</b> by us<br><br>
       ✅ &nbsp;<b>Anonymous by default</b>, and you share only what you switch on<br><br>
-      ✅ &nbsp;<b>Video only by mutual consent</b> in one-to-one calls, and in group calls only you decide when your camera is on
+      ✅ &nbsp;<b>Cameras start off</b>, and only you decide when yours goes on
     </td>
     <td width="50%" valign="top">
       ✅ &nbsp;<b>One tap</b> to skip, block or report<br><br>
@@ -160,7 +160,7 @@
 
 <details>
 <summary><b>Do I have to turn my camera on?</b></summary>
-<br>Never. Video calls start voice-only, and your camera turns on only if you <i>both</i> tap the camera button. In group calls you choose whether your camera is on, before you join and during the call. Or just use Text Chat.
+<br>Never. Video calls start voice-only, and your camera turns on only when you tap the camera button. The other person decides about their own camera in the same way. In group calls you choose before you join and during the call. Or just use Text Chat.
 </details>
 
 <details>
